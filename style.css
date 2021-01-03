@@ -32,7 +32,7 @@ section span::before {
   position: absolute;
   width: 100%;
   height: 100%;
-  transform: translate(-70%, -70%);
+  transform: scale(0.25) translate(-70%, -70%);
   background: radial-gradient(#fff, transparent);
   border-radius: 50%;
 }
